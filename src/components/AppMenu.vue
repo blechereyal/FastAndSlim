@@ -20,7 +20,7 @@
             class="py-4 px-2 text-gray-50 font-semibold hover:text-orange-700 transition duration-300">Transformari</a>
           <a href="" class="py-4 px-2 text-gray-50 font-semibold hover:text-orange-700 transition duration-300">Nutritie
             &amp; Fitness</a>
-          <a href=""
+          <a href="#/contact"
             class="py-4 px-2 text-gray-50 font-semibold hover:text-orange-700 transition duration-300">Contact</a>
         </div>
         <!-- Mobile menu button -->
@@ -54,7 +54,7 @@
               Fitness</a>
           </li>
           <li>
-            <a href="" class="block w-full text-sm px-2 py-4 hover:bg-orange-700 transition duration-300">Contact</a>
+            <a href="#/contact" class="block w-full text-sm px-2 py-4 hover:bg-orange-700 transition duration-300">Contact</a>
           </li>
         </ul>
       </div>
@@ -65,6 +65,7 @@
 
 <script>
 import AboutUsPage from './AboutUsPage.vue';
+import ContactPage from './ContactPage.vue';
 import HomePage from './HomePage.vue';
 import PackagesPage from './PackagesPage.vue';
 
@@ -72,7 +73,8 @@ import PackagesPage from './PackagesPage.vue';
 const routes = {
   '/': HomePage,
   '/packages': PackagesPage,
-  '/about_us': AboutUsPage
+  '/about_us': AboutUsPage,
+  '/contact': ContactPage,
 }
 
 export default {

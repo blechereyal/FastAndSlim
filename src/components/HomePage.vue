@@ -15,7 +15,7 @@
             </p>
           </div>
           <div class="mt-2">
-            <button href=""
+            <button href="#/packages"
               class="btn-primary">
               ALEGE PROGRAMUL
             </button>
@@ -26,7 +26,7 @@
   </div>
 
   <div class="w-full flex p-4 py-8 items-center justify-center flex-wrap gap-5">
-    <div class="flex w-1/2 h-full justify-center flex-col min-w-[50%]">
+    <div class="flex w-2/3 h-full justify-center flex-col min-w-[50%]">
       <div>
         <p class="font-oswald text-gray-900 uppercase text-2xl">
           Bine ai venit in lumea FASTANDSLIM!
@@ -40,7 +40,7 @@
         </p>
       </div>
       <div class="mt-2">
-        <button href=""
+        <button href="#/packages"
           class="btn-primary">
           PROGRAMELE FASTANDSLIM
         </button>
