@@ -62,8 +62,8 @@ ce alegi sa lasi sa-si influenteze bunastarea.
     <p class="font-semibold">Te invit sa verifici tipurile de programe propuse de echipa noastra si sa-l alegi pe acela care se potriveste
 nevoii tale actuale. Daca nu esti sigur(a) de programul care ti se potriveste, te asteptam sa ne scrii aici!</p>
   <div class="flex flex-col lg:flex-row gap-2">
-    <button href="#/contact" class="inline btn-primary">Contact</button>
-    <button href="#/packages" class="inline btn-primary">Programe</button>
+    <a href="#/contact" class="inline btn-primary">Contact</a>
+    <a href="#/packages" class="inline btn-primary">Programe</a>
   </div>
 
   </div>

@@ -15,10 +15,10 @@
             </p>
           </div>
           <div class="mt-2">
-            <button href="#/packages"
+            <a href="#/packages"
               class="btn-primary">
               ALEGE PROGRAMUL
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -40,10 +40,10 @@
         </p>
       </div>
       <div class="mt-2">
-        <button href="#/packages"
+        <a href="#/packages"
           class="btn-primary">
           PROGRAMELE FASTANDSLIM
-        </button>
+        </a>
       </div>
     </div>
     <div class="h-1/2">
@@ -74,10 +74,10 @@
         Suntem aici pentru a creea calatoria ta personalizata!
       </p>
       <div class="mt-2">
-        <button href=""
-          class="text-gray-50 font-bold bg-gradient-to-r from-gray-900 to-gray-700 text-center p-2 rounded-lg">
+        <a href="#/packages"
+          class="inline-block text-gray-50 font-bold bg-gradient-to-r from-gray-900 to-gray-700 text-center p-2 rounded-lg">
           VEZI CE PROGRAM TI SE POTRIVESTE
-        </button>
+        </a>
       </div>
     </div>
   </div>
